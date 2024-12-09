@@ -21,56 +21,61 @@
 
 ![commits](https://img.shields.io/github/last-commit/University-Course-Tutorial/UW-PHYS121?label=Last%20Commit%20)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>
   <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&color=416572"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&color=3F4F75">
   <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?style=plastic&logo=scikit-learn&logoColor=white&color=FCA043"/>
   <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
-</p> 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+</p>  -->
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
 
-## Course Learn Path
+**Course prerequisite**
+
+- [x] **C1-4U Calculus and Vectors**
+- [x] **C2-4U Advanced Functions**
+- [x] **C3-4U Physics**
+      [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
+
+## Course Learn Path - Modules
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [ ] **M1-Kinematics**
+- [ ] **M2-Dynamics**
+- [ ] **M3-Energy**
+- [ ] **M4-Linear Momentum**
+- [ ] **M5-Rotational Motion**
+- [ ] **M6-Angular Momentum**
 
 ## Course Description: 1 Course
 
-Sponsor University : Duke University  
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/1.0%20Coursera/Duke%20University-1.png" alt="bdfd" />
+University Enrolled : University of Waterloo  
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Andrew D. Hilton
-2. Nick Eubank
-3. Genevieve M. Lipp
-4. Kyle Bradbury
-
-<br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+1. Lecture Facilitator - Prof. Richard Epp
+2. Workshop Facilitator - Prof. Karen Cummings
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Textbooks:**
 
-**Libraries:** Pandas, NumPy
+1. University Physics, 15th Ed. By Young and Freedman
 
-**Projects:** ABC Project Name
+**Add-on Resources:**
+
+1. Mastering Physics on-line homework system
+2. Scientific Calculator
+
+**Projects:**
 
 #### Useful Resources
 
 - [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
-
-## Course Certificate
-
-Total Hours: ~13 Hrs
 
 <div align="center">
 
@@ -85,5 +90,3 @@ Total Hours: ~13 Hrs
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
