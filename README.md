@@ -37,7 +37,6 @@ An introductory course in physics for students intending to concentrate their fu
 - [x] **C1-4U Calculus and Vectors**
 - [x] **C2-4U Advanced Functions**
 - [x] **C3-4U Physics**
-      [Note: Successful completion of 4U Calculus and Vectors, 4U Advanced Functions and 4U Physics is required. Offered: F, also offered online: W]
 
 ## Course Learn Path - Modules
 
